@@ -1,0 +1,1 @@
+"""VisualSignTranslator package."""
